@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API_BASE_URL = 'http://localhost:8000/api'
+const API_BASE_URL = 'https://waspito-backend.onrender.com/api'
 const STATIC_TOKEN = 'test_token_123'
 
 function getAuthToken() {
